@@ -1,4 +1,4 @@
-# Welcome to the Google Data Analytics Certificate
+### Welcome to the Google Data Analytics Certificate
 
 ### Overview
 - **Industries Using Data:** E-commerce, entertainment, healthcare, manufacturing, marketing, finance, tech, and many others.
